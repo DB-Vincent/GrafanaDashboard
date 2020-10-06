@@ -11,3 +11,6 @@ For the PfSense metrics, you'll have to set up telegraf on you PfSense instance 
 
 ## Climate
 These are gathered by an ESP8266, these configuration and software files I won't be sharing unfortunately.
+
+## Screenshot
+![Dashboard screenshot](https://github.com/DB-Vincent/GrafanaDashboard/blob/main/screenshot.png)
